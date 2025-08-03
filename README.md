@@ -1,4 +1,4 @@
-# Update Password App
+# UpdatePasswordApp
 
 A basic web app to update a password.  
 Features:
